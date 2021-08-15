@@ -1,0 +1,26 @@
+#mycloud{
+
+font-family: 'Courier New', Courier, monospace;
+color: white;
+background-color: black;
+text-align: left;
+font-weight: 700;
+
+}
+
+h2 {
+
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+background-color: rgb(97, 27, 200);
+}
+
+h3{
+
+color: rgb(17, 48, 187);
+text-align: right;
+text-decoration: underline;
+background-color: rgb(138, 138, 253);
+    
+}
